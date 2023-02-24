@@ -18,7 +18,7 @@ git reset
 git commit -m “change function b”
 
 เป็นการก้อปปี้โปรเจคจำลองมาจากโปรเจคหลัก โดยเราจะสามารถเปลี่ยนแปลงไฟล์ในโปรเจคจำลองนี้ได้โดยที่ไม่กระทบโปรเจคหลัก (ไฟล์จำลองที่เราทำการเปลี่ยนแปลงจะเรียกว่า local repository และไฟล์หลักที่อยู่คนละที่จะเรียกว่า remote repository)
-git clone
+git clone ตามด้วย URL ที่จะ Clone
 
 เป็นการส่งไฟล์ที่ commit แล้วเข้าสู่ remote repository
 git push
